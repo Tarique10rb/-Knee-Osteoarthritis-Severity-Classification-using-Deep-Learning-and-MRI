@@ -1,4 +1,4 @@
-# 🦴 Knee Osteoarthritis Severity Classification using Deep Learning and MRI
+# Knee Osteoarthritis Severity Classification using Deep Learning and MRI
 
 ## Overview
 
